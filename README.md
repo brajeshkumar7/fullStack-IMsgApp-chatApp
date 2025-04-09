@@ -20,8 +20,9 @@ A modern real-time chat application that allows users to communicate instantly i
 ## 🛠️ Tech Stack
 
 **Frontend:**  
+- HTML, CSS, JavaScript 
 - React.js (with express)
-- Axios  
+- Tailwind CSS  
 - Socket.io-client
 
 **Backend:**  
