@@ -21,12 +21,12 @@ A modern real-time chat application that allows users to communicate instantly i
 
 **Frontend:**  
 - HTML, CSS, JavaScript 
-- React.js (with express)
+- React.js 
 - Tailwind CSS  
 - Socket.io-client
 
 **Backend:**  
-- Node.js + Express  
+- Node.js (with Express)  
 - Socket.io  
 - MongoDB (with Mongoose)
 
